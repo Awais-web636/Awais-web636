@@ -1,5 +1,6 @@
 <h1 align="center">Hi👏 I'm Muhammad Awais</h1>
-<h1 align="center">A passionate Web developer from Pakistan</h1>
+<h3 align="center">A passionate Web developer from Pakistan</h3>
+
 # 💫 About Me:
 🔭 I'm currently working as a **Frontend web developer**<br>🌱 I'm currently learning **Frontend**<br>💬 Ask me about **HTML5,CSS3 and Javascript**<br>📧 How to reach me **muhammadawais1820@gmail.com**<br>
 
