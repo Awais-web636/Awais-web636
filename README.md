@@ -10,15 +10,15 @@
 <h3>A Passionate Frontend Web Developer from Pakistan</h3>
 
 <ul>
-  <li>🔭 Currently working as a <strong>Frontend Web Developer</strong></li>
+  <li>🔭 Currently working as a <strong>Full Stack Developer</strong></li>
   <li>🌱 Continuously learning and growing in <strong>Frontend Development</strong></li>
-  <li>💬 Ask me about <strong>HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js</strong></li>
+  <li>💬 Ask me about <strong>HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js, Node js, Express js and MonogoDB</strong></li>
   <li>📧 Reach out: <strong>muhammadawais1820@gmail.com</strong></li>
 </ul>
 
 <!-- Profile Views -->
 <p>
-  <img src="https://visitcount.itsvg.in/api?id=Awais-web636&label=Profile%20Views&color=1&icon=2&pretty=true" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Awais-web636&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 </td>
