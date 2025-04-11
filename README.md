@@ -11,7 +11,7 @@
 
 <ul>
   <li>🔭 Currently working as a <strong>Full Stack Developer</strong></li>
-  <li>🌱 Continuously learning and growing in <strong>Frontend Development</strong></li>
+  <li>🌱 Continuously learning and growing in <strong>Full Stack Development</strong></li>
   <li>💬 Ask me about <strong>HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, React.js, Node js, Express js and MonogoDB</strong></li>
   <li>📧 Reach out: <strong>muhammadawais1820@gmail.com</strong></li>
 </ul>
