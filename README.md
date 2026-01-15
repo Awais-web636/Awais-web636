@@ -103,83 +103,21 @@ const awais = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-### 📈 Profile Stats
-  
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Awais-web636&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Awais-web636&theme=tokyonight&hide_border=true&background=1F222E&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866&sideLabels=F8D866&dates=FFFFFF" width="100%" alt="GitHub Streak"/>
-    </td>
-  </tr>
-</table>
 
-### 💻 Most Used Languages
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Awais-web636&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Awais-web636&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-web636&layout=donut&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&text_color=FFFFFF&langs_count=10" width="45%" alt="Top Languages"/>
-
-### 📉 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Awais-web636&custom_title=Muhammad%20Awais's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FE428E&title_color=FFFFFF&area=true&hide_border=true" width="95%" alt="Contribution Graph"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-web636&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements & Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-### 🎯 Trophy Collection
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Awais-web636&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" alt="GitHub Trophies"/>
-</p>
-
-### 📌 Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Awais-web636&theme=tokyonight" width="95%" alt="Profile Summary"/>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Awais-web636&theme=tokyonight" alt="Repos per Language"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Awais-web636&theme=tokyonight" alt="Most Commit Language"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Awais-web636&theme=tokyonight" alt="Stats"/>
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Awais-web636&theme=tokyonight&utcOffset=5" alt="Productive Time"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🌟 Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/Awais-web636">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Awais-web636&repo=Awais-web636&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="48%" alt="Pinned Repo 1"/>
-</a>
-
-<!-- Add more pinned repos as you create them -->
-<!-- Example:
-<a href="https://github.com/Awais-web636/your-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Awais-web636&repo=your-project&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" width="48%" alt="Your Project"/>
-</a>
--->
+<img src="https://github-profile-trophy.vercel.app/?username=Awais-web636&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
 
 </div>
 
@@ -189,21 +127,7 @@ const awais = {
 
 <div align="center">
   
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Developer Quote"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Awais-web636/Awais-web636/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Awais-web636/Awais-web636/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Awais-web636/Awais-web636/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 
 </div>
 
@@ -217,7 +141,7 @@ const awais = {
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095283500038)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/direct/inbox/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadawais1820@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/Awais-web636)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Awais-web636)
 
 </div>
 
@@ -229,7 +153,7 @@ const awais = {
 
 **Let's build something amazing together!** 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
 
 ---
 
