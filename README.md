@@ -114,24 +114,24 @@ const awais = {
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
+
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Awais-web636&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awais-web636&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 </div>
 
 <div align="center">
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Awais-web636&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 ---
 
-## 🏆 GitHub Achievements
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Awais-web636&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+</p> -->
 
 ---
 
@@ -165,6 +165,6 @@ const awais = {
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Awais-web636&icon=0&color=0" alt="Visit Count"/>
-</p>
+</p> -->
