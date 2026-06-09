@@ -74,41 +74,6 @@ const awais: Developer = {
 
 ---
 
-## 💼 Work Experience
-
-<table align="center" width="100%">
-  <tr>
-    <td>
-      <strong>🏢 Full Stack Developer (MERN)</strong><br/>
-      <strong>MRA Developers</strong> · <em>December 2025 – Present</em><br/>
-      Developing and maintaining responsive full stack web applications using React.js, Next.js, Node.js, Express.js, MongoDB, TypeScript, Tailwind CSS, and Bootstrap.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>🏢 Full Stack Developer (MERN)</strong><br/>
-      <strong>Decimal Solutions</strong> · <em>April 2025 – December 2025</em><br/>
-      Built scalable web applications and integrated frontend with backend APIs using React.js, Node.js, Express.js, MongoDB, and Tailwind CSS.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>🏢 Full Stack Developer (MERN) — Remote Internship</strong><br/>
-      <strong>Tech Vexa</strong> · <em>Nov 2024 – Dec 2024</em><br/>
-      Developed and maintained full stack applications using HTML5, CSS3, JavaScript, Node.js, Express.js, MongoDB, Bootstrap, and Tailwind CSS.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <strong>🏢 Full Stack Developer (MERN) — Remote Internship</strong><br/>
-      <strong>HiSkyTech</strong> · <em>May 2024 – Aug 2024</em><br/>
-      Created dynamic and responsive web applications using modern frontend and backend technologies with database integration.
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
@@ -160,67 +125,6 @@ const awais: Developer = {
 
 ---
 
-## 🚀 Featured Projects
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📋 Instant Policy Leads</h3>
-      <a href="https://instantpolicyleads.com">instantpolicyleads.com</a><br/><br/>
-      Insurance lead generation platform with optimized UI/UX.<br/><br/>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📍 Confirm Listings</h3>
-      <a href="https://confirmlistings.com">confirmlistings.com</a><br/><br/>
-      Business listing platform with scalable frontend architecture.<br/><br/>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 Auto Genius — Final Year Project</h3>
-      <a href="https://auto-genius-client-seven.vercel.app">auto-genius-client-seven.vercel.app</a><br/><br/>
-      Full-stack automobile spare parts marketplace.<br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Shadcn%2FUI-000000?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏠 Real Estate Website</h3>
-      <a href="https://real-estate-nine-wine.vercel.app">real-estate-nine-wine.vercel.app</a><br/><br/>
-      Modern real estate UI with listings, filters, and responsive UX.<br/><br/>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💡 Bilnow Clone</h3>
-      <a href="https://bilnow-clone-ymsx.vercel.app">bilnow-clone-ymsx.vercel.app</a><br/><br/>
-      Responsive UI clone showcasing modern design and layouts.<br/><br/>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛋️ Furn Shop</h3>
-      <a href="https://furn-shop.vercel.app">furn-shop.vercel.app</a><br/><br/>
-      E-commerce furniture homepage with responsive navigation.<br/><br/>
-      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🤝 Soft Skills
 
 <p align="center">
@@ -230,14 +134,6 @@ const awais: Developer = {
   <img src="https://img.shields.io/badge/Critical%20Thinking-96CEB4?style=for-the-badge" alt="Critical Thinking"/>
   <img src="https://img.shields.io/badge/Adaptability-FFEAA7?style=for-the-badge" alt="Adaptability"/>
 </p>
-
----
-
-## 🏆 Certifications
-
-- 📜 **Web Development Certification** — Coursera
-- 📜 **Remote Internship Letter** — HiSkyTech
-- 📜 **Remote Internship Letter** — Tech Vexa
 
 ---
 
